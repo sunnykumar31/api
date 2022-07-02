@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(219, 214, 209);
+}
+#head{
+    width: 100pxpx;
+    height: 50px;
+    text-align: center;
+    color: rgb(15, 2, 28);
+    background-color: rgb(217, 252, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+#container{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(233, 177, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#mytable{
+    width: 800px;
+    height: 400px;
+    color: rgb(18, 18, 18);
+    background-color: aquamarine;
+}
